@@ -1,8 +1,6 @@
 <?php
-
 declare(strict_types=1);
-
-$cfg['blowfish_secret'] = 'pfejoieofjwieoafehoihowefwefwfaefab';
+$cfg['blowfish_secret'] = '12345678123456781234567812345678123456781234567832145678';
 $i = 0;
 $i++;
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
